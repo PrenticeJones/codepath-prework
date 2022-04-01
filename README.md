@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
+
 ![](gif1-link-here)![](https://i.imgur.com/s8WXx6o.gif)
 
 ![](gif2-link-here)![](https://i.imgur.com/6BgC1AX.gif)
@@ -47,16 +47,21 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+https://www.w3schools.com/cssref/css_colors.asp
+https://www.w3schools.com/csSref/css_selectors.asp
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+I particularly had a difficult time implementing the logic of the guess function. I am a visual learner so the flow chart helped me to write out the code. However, at first, the first cue would only play and when the user pressed the correct button nothing would happen. I knew that this meant progress was not being made and something must have been wrong with my nested conditionals. I wrote the diagram from scratch and then wrote out the corresponding pseudo-code to match it. I noticed looking back on the original code that I had not fully understood the difference between the guessCounter and progress variables. After I had verified one was to keep track of the user’s place in the clue sequence and the other to represent the length in terms of guess I rewrote my code. Afterward, I was still getting the same error and so next I went through my logic again compared to my actual code. When everything seemed to make logical sense I started to look at the brackets and my guessCounter was not in the correct scope to be incremented. After I adjusted the bracket I went through each statement to double-check my code.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+I am very interested in the process of web development. I am most familiar with Java, C, and Python and have not had the opportunity to thoroughly develop and enhance my skills related to application or web development. At school we usually are meant to complete projects individually and if we need help go to office hours. However, I know that in the industry people mostly work in teams. For that reason, I want to know more about the flow and timeliness of completing projects. Additionally, I would like to explore what is directly applicable to what I have learned through this project. For instance, are Javascript, HTML, and CSS typically the tools in web development, and if not what platforms are used more.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+If I had a few more hours to work on this project I would like to work on implementing features that would add higher stakes for the user. I was interested in the optional feature to randomize the pattern of the buttons so that when the user interacts with my game there is no way to beat the game simply by memorizing the order of the buttons. I found myself starting to become used to the sequence of the pattern array even after I added two additional buttons. I am already familiar with the Math.random function in java and am always curious to learn about the comparisons and nuances of the similar or same functions across programming languages.
 
 
 
