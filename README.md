@@ -6,7 +6,9 @@ Submitted by: Prentice Jones
 
 Time spent: 5 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: 
+https://glitch.com/edit/#!/cultured-mountainous-bream
+https://cultured-mountainous-bream.glitch.me
 
 ## Required Functionality
 
