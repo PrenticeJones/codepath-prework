@@ -1,4 +1,4 @@
-# Pre-work - *Memory Game*
+*Memory Game*
 
 
 Submitted by: Prentice Jones
